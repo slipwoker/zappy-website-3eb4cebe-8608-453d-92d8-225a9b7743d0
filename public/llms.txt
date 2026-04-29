@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# shopleg — Generative Engine Optimization Map
+
+> An online shopping landing page for computer products at mid-range prices. The store targets everyday consumers looking for accessible tech products. The purchase flow includes identity verification (ID number), credit card number, and a 3-digit CVV code, indicating a secure and straightforward checkout experience. The focus is on simplicity and trust in the buying process.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://shopleg.zappy5.app
 shopleg היא החנות המקוונת שמביאה לך מוצרי מחשב איכותיים במחיר בינוני. ציוד טכנולוגי לכל צרכן ישראלי — פשוט, נגיש ובטוח. הצטרף אלינו עוד היום!
 
 ### מוצרים
-https://example.com/products
+https://shopleg.zappy5.app/products
 עיין במגוון רחב של מוצרי מחשב וציוד גיימינג אונליין בישראל — כולם במחירים בינוניים שמתאימים לכל כיס. מצא את הציוד המושלם ורכוש בקלות ובביטחון מלא.
 
 ### אמון ותהליך
-https://example.com/trust-process
+https://shopleg.zappy5.app/trust-process
 תהליך הרכישה ב-shopleg מבוסס על אמון מלא: אימות זהות, תשלום מאובטח בכרטיס אשראי ואישור CVV — הכל פשוט, ברור ומוגן. קנה בשקט נפשי מלא.
 
 ### צור קשר
-https://example.com/contact
+https://shopleg.zappy5.app/contact
 צוות shopleg זמין לכל שאלה בנושא מוצרי מחשב, הזמנות וציוד גיימינג אונליין בישראל. שלח לנו הודעה ונחזור אליך במהירות — שירות אישי ומקצועי לכל לקוח.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://shopleg.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://shopleg.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://shopleg.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About shopleg
+An online shopping landing page for computer products at mid-range prices. The store targets everyday consumers looking for accessible tech products. The purchase flow includes identity verification (ID number), credit card number, and a 3-digit CVV code, indicating a secure and straightforward checkout experience. The focus is on simplicity and trust in the buying process.
+
+## Target Audience
+- חובבי טכנולוגיה
+- גיימרים אונליין
+- מקצועני IT
+
+## Industry
+טכנולוגיה ואלקטרוניקה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://shopleg.zappy5.app/sitemap.xml
+- **Robots.txt**: https://shopleg.zappy5.app/robots.txt
